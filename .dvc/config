@@ -1,0 +1,4 @@
+[core]
+    remote = my_101_repo
+['remote "my_101_repo"']
+    url = C:\Users\ik316\AppData\Local\Temp
